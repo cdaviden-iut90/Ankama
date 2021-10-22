@@ -13,6 +13,9 @@ Page de zonning:
 ![Illustration2](https://user-images.githubusercontent.com/91718853/138263401-4951ce38-f930-4949-9a5e-98ed80f5c0e0.jpg)
 
 Realisation:
+
 Clement:A propos et partenaires
+
 Emile:jeux, animation, accueil
+
 Dorian:zoning animation et partenaires
